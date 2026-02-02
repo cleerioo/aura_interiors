@@ -2,6 +2,12 @@
 
 A premium, luxury interior design website built with React, Tailwind CSS, and Framer Motion.
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://aura-interiors-one.vercel.app)
+
+## 🌐 Live Demo
+
+**Website:** [aura-interiors-one.vercel.app](https://aura-interiors-one.vercel.app)
+
 ## 🌟 Features
 
 - **Custom Cursor**: Smooth cursor follower with spring physics
